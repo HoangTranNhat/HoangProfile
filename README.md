@@ -29,7 +29,7 @@
 ---
 
 # 📊 GitHub Stats:
-<table style="width:500%">
+<table style="width:100%">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=HoangTranNhat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
@@ -37,7 +37,9 @@
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangTranNhat&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTranNhat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+    </td>
   </tr>
 </table>
 
