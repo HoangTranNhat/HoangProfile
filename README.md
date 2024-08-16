@@ -6,14 +6,12 @@
 ---
 
 ## 📫 Contact
-<p align="center">
-  <a href="https://github.com/HoangTranNhat"><img src="https://img.shields.io/badge/GitHub-HoangTranNhat-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<a href="https://github.com/HoangTranNhat"><img src="https://img.shields.io/badge/GitHub-HoangTranNhat-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+
 
 ---
 
-# 💻 Tech Stack:
-<p align="center">
+# 💻 Tech Stack
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
@@ -24,7 +22,7 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
-</p>
+
 
 ---
 
