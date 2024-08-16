@@ -7,11 +7,11 @@
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning NodeJS, Express and MongoDB
 
-- 💬 Ask me about HTML, CSS, JS, ReactJS
+- ❓ Ask me about HTML, CSS, JS, ReactJS
 
-- 📫 How to reach me: trannhathoang17544@gmail.com
+- 📧 How to reach me: trannhathoang17544@gmail.com
 
-- ⚡ A fun fact: I'm quite sociable and kind-hearted.
+- 😊 A fun fact: I'm quite sociable and kind-hearted.
 ---
 
 ## 📫 Contact
