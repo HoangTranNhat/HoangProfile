@@ -5,7 +5,6 @@
 
 ---
 ## 👨‍💻 About Me
-<p align="center"><img src="https://img.icons8.com/color/48/000000/technologies.png" alt="About Me Icon"/></p>
 - 🌱 I’m currently learning NodeJS, Express and MongoDB
 
 - 💬 Ask me about HTML, CSS, JS, ReactJS
