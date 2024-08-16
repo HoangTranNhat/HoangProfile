@@ -5,6 +5,13 @@
 
 ---
 
+## 📫 Contact
+<p align="center">
+  <a href="https://github.com/HoangTranNhat"><img src="https://img.shields.io/badge/GitHub-HoangTranNhat-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
@@ -47,13 +54,6 @@
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=HoangTranNhat&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
----
-
-## 📫 Contact
-<p align="center">
-  <a href="https://github.com/HoangTranNhat"><img src="https://img.shields.io/badge/GitHub-HoangTranNhat-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
