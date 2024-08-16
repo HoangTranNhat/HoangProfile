@@ -29,7 +29,7 @@
 ---
 
 # 📊 GitHub Stats:
-<table style="width:50%">
+<table style="width:500%">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=HoangTranNhat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
