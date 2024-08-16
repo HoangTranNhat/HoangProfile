@@ -4,6 +4,15 @@
 <p align="center">I'm a student of: <a href="https://university.fpt.edu.vn/">FPT University (FPTU)</a>.</p>
 
 ---
+## 👨‍💻 About Me
+. 🌱 I’m currently learning NodeJS, Express and MongoDB
+
+. 💬 Ask me about HTML, CSS, JS, ReactJS
+
+.📫 How to reach me trannhathoang17544@gmail.com
+
+.⚡ A fun fact I'm quite sociable and kind-hearted.
+---
 
 ## 📫 Contact
 <p align="left">
