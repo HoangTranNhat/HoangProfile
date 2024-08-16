@@ -37,16 +37,18 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h3>✍️ Random Dev Quote</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
-  </div>
-  <div style="flex: 1;">
-    <h3>🔝 Top Contributed Repo</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=HoangTranNhat&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-  </div>
-</div>
+<table style="width:100%">
+  <tr>
+    <td>
+      <h3 align="left">✍️ Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
+    </td>
+    <td>
+      <h3 align="left">🔝 Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=HoangTranNhat&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+    </td>
+  </tr>
+</table>
 
 ---
 
