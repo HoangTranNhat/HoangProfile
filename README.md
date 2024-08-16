@@ -6,7 +6,7 @@
 
 ---
 ## 👨‍💻 About Me
-<div style="display: flex; align-items: center; justify-content: center; text-align: left;">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start; text-align: left;">
   <div style="flex: 1; margin-right: 20px;">
     <p>
       - 🌱 I’m currently learning NodeJS, Express and MongoDB<br>
@@ -16,7 +16,7 @@
     </p>
   </div>
   <div style="flex: 0;">
-    <img src="https://camo.githubusercontent.com/bfdfada0ba7230c3d2394d6f5dc3120188c8fba87be15946efcc68864b318d89/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f636f64656c6f6f702e676966" alt="Code Icon" style="width:500px;height:300px;"/>
+    <img src="https://camo.githubusercontent.com/bfdfada0ba7230c3d2394d6f5dc3120188c8fba87be15946efcc68864b318d89/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f636f64656c6f6f702e676966" alt="Code Icon" style="width:200px; height:auto;"/>
   </div>
 </div>
 ---
