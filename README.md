@@ -6,16 +6,15 @@
 
 ---
 ## 👨‍💻 About Me
-<p align="right">
-<img src="https://camo.githubusercontent.com/bfdfada0ba7230c3d2394d6f5dc3120188c8fba87be15946efcc68864b318d89/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f636f64656c6f6f702e676966" alt="Code Icon" style="width:50px;height:50px;margin-left:10px;"/>
+<p align="center" style="display: flex; align-items: center;">
+  <img src="https://camo.githubusercontent.com/bfdfada0ba7230c3d2394d6f5dc3120188c8fba87be15946efcc68864b318d89/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f636f64656c6f6f702e676966" alt="Code Icon" style="width:50px;height:50px;margin-right:10px;"/>
+  <span>
+    - 🌱 I’m currently learning NodeJS, Express and MongoDB<br>
+    - ❓ Ask me about HTML, CSS, JS, ReactJS<br>
+    - 📫 How to reach me: trannhathoang17544@gmail.com<br>
+    - ⚡ A fun fact: I'm quite sociable and kind-hearted.
+  </span>
 </p>
-- 🌱 I’m currently learning NodeJS, Express and MongoDB
-
-- ❓ Ask me about HTML, CSS, JS, ReactJS
-
-- 📫 How to reach me: trannhathoang17544@gmail.com
-
-- ⚡ A fun fact: I'm quite sociable and kind-hearted.
 ---
 
 ## 📫 Contact
