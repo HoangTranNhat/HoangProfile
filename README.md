@@ -37,23 +37,22 @@
 
 ---
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>✍️ Random Dev Quote</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
+  </div>
+  <div style="flex: 1;">
+    <h3>🔝 Top Contributed Repo</h3>
+    <img src="https://github-contributor-stats.vercel.app/api?username=HoangTranNhat&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  </div>
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HoangTranNhat&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=HoangTranNhat&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
 ---
